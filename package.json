@@ -1,0 +1,17 @@
+{
+  "name": "wether-app",
+  "version": "1.0.0",
+  "description": "this is a weather app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "pratik singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
